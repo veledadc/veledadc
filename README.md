@@ -2,7 +2,7 @@
  
  - 🐍 Apaixonado por Python.
  - 💻 Desenvolvedor de formação. 
- - 📈 Atualmente atuo como Digital Analytics na Whirlpool S/A.
+ - 📈 Atuo como Digital Analytics na Whirlpool S/A.
  - 🎛 Estudando Ciência de Dados.
 
 <div align="center">
