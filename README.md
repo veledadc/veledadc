@@ -1,10 +1,6 @@
  ## Olá eu sou o Cássio Veleda
  
  - 🐍 Apaixonado por Python.
- - 💻 Desenvolvedor de formação. 
- - 📈 Atuo como Digital Analytics na Whirlpool Corporation.
- - 🎛 Estudando Ciência de Dados.
-
 <div align="center">
   <a href="https://github.com/veledadc">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=veledadc&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
